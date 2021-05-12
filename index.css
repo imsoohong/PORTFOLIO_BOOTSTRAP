@@ -12,3 +12,21 @@ body {
 .personal h5, .personal p {
     font-size: 14px; 
 }
+
+.bar{
+    width: 90%;
+    height: 4px;
+    background-color: #eee;
+    margin: auto;
+}
+
+.bar2{
+    width: 4px;
+    height: 140px;;
+    background-color: black;
+    margin: auto;
+}
+
+.location::before {
+    margin-right: 8px;
+}
