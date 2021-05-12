@@ -1,0 +1,14 @@
+body {
+    background-color: #f7f9fc;
+}
+
+.white-box{
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0.5px 0.5px 2px 1px #eee;
+}
+
+.personal h5, .personal p {
+    font-size: 14px; 
+}
