@@ -13,6 +13,11 @@ body {
     font-size: 14px; 
 }
 
+.intro__wrapper{
+    display: flex;
+    align-items: center;
+}
+
 .bar{
     width: 90%;
     height: 4px;
@@ -20,13 +25,10 @@ body {
     margin: auto;
 }
 
-.bar2{
-    width: 4px;
-    height: 140px;;
-    background-color: black;
-    margin: auto;
-}
-
 .location::before {
     margin-right: 8px;
 }
+
+.github__page{
+    text-align: center;
+}  
